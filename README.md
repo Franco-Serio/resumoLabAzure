@@ -40,4 +40,14 @@ Também são mencionados os modelos de implementação de nuvem: pública, priva
   - **Nuvem Privada**
     - Recursos exclusivos
   - **Nuvem Híbrida**
-    - Combinação dos dois modelos
+    - Combinação dos dois modelos   
+
+Módulo 2: Arquitetura e serviços do Azure
+
+Componentes de arquitetura do Azure: Aprendemos sobre os principais componentes do Azure, como regiões, zonas de disponibilidade, datacenters, e como eles funcionam para garantir escalabilidade e baixa latência.
+
+Assinaturas e grupos de recursos: Falamos sobre grupos de recursos (que são como pastas para organizar seus recursos) e assinaturas, que são importantes para controle de acesso e cobranças separadas.
+
+Regiões e zonas de disponibilidade: Descobrimos como o Azure tem mais de 60 regiões globais e que as zonas de disponibilidade ajudam a manter os serviços funcionando, mesmo com falhas em datacenters.
+
+Recursos e grupos de gerenciamento: Vimos que os recursos do Azure são coisas como máquinas virtuais e redes, e os grupos de gerenciamento ajudam a gerenciar várias assinaturas de uma vez.
